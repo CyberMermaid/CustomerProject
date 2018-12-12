@@ -18,6 +18,6 @@ public class Test {
 		
 		x = ct.addRecord(t,v);
 		
-		System.out.print("Insert status:" + x);
+		System.out.print("Insert status: Test" + x);
 	}
 }
